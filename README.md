@@ -1,4 +1,4 @@
-# GitLearning
+# GitFlow
 
 ## :gift: Aliases of git
 
